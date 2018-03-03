@@ -5,9 +5,9 @@
   <subtitle>缓解焦虑</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://xiaobingyan.github.io/"/>
   <updated>2018-03-03T07:39:47.752Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://xiaobingyan.github.io/</id>
   
   <author>
     <name>zoe.xiao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>pyspark学习笔记</title>
-    <link href="http://yoursite.com/2018/03/03/pyspark_note/"/>
-    <id>http://yoursite.com/2018/03/03/pyspark_note/</id>
+    <link href="https://xiaobingyan.github.io/2018/03/03/pyspark_note/"/>
+    <id>https://xiaobingyan.github.io/2018/03/03/pyspark_note/</id>
     <published>2018-03-03T07:20:05.000Z</published>
     <updated>2018-03-03T07:39:47.752Z</updated>
     
@@ -32,12 +32,12 @@
     
     </summary>
     
-      <category term="spark" scheme="http://yoursite.com/categories/spark/"/>
+      <category term="spark" scheme="https://xiaobingyan.github.io/categories/spark/"/>
     
     
-      <category term="spark" scheme="http://yoursite.com/tags/spark/"/>
+      <category term="spark" scheme="https://xiaobingyan.github.io/tags/spark/"/>
     
-      <category term="python" scheme="http://yoursite.com/tags/python/"/>
+      <category term="python" scheme="https://xiaobingyan.github.io/tags/python/"/>
     
   </entry>
   
